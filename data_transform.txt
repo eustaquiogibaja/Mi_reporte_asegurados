@@ -1,0 +1,5 @@
+// archivo de transformación de datos
+
+1. Filtrar datos duplicados de Clientes in ('DNI','RUC10', 'RUC20')
+2. Reubicar datos en variables correspondientes in ('nombre_1','nombre_2','nombre_3')
+3. Considerar 8 dígitos para número de documento de indetidad
